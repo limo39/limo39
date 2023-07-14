@@ -1,4 +1,4 @@
-# Freelancer | Django | Node | Python | Web 3 
+# Freelancer | Django | Node | Python | Web 3 | Flutter | Dart
 ___
 
 Hi there! My name is Limo, and I am a Full Stack Developer. I am currently studying Software Engineering in Kenya and am passionate about solving real-world problems faced by people in my community and across Africa.
