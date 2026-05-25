@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Limo!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%7C+Node.js+%7C+Python+%7C+Go;Web3+%7C+Flutter+%7C+Dart;Building+Solutions+for+Africa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%7C+Node.js+%7C+Python+%7C+Go;Flutter+%7C+Dart;Building+Solutions+for+Africa" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@ One of the most effective ways to keep up with rapidly changing technology is to
 ## 🎯 Current Focus
 
 - Building scalable web applications with Django, Node.js, and Go
-- Exploring Web3 technologies and blockchain development
+- Exploring new technologies and blockchain development
 - Creating mobile-first solutions with Flutter
 - Developing high-performance backend services with Go
 - Contributing to projects that drive positive change in Africa
