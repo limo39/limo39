@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Limo!
+#  Hi, I'm Limo!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%7C+Node.js+%7C+Python+%7C+Go;Flutter+%7C+Dart;Building+Solutions+for+Africa" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Full Stack Developer currently studying Software Engineering in Kenya. I'm driven by the opportunity to solve real-world problems that impact my community and across Africa through innovative technology solutions.
 
@@ -52,7 +52,7 @@ I believe that every challenge presents an opportunity to learn and develop crea
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 What Drives Me
+##  What Drives Me
 
 One of the most effective ways to keep up with rapidly changing technology is to actively participate in shaping it. I believe in:
 
@@ -61,7 +61,7 @@ One of the most effective ways to keep up with rapidly changing technology is to
 - **Continuous learning** and adaptation
 - **Mentoring** other developers in my community
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building scalable web applications with Django, Node.js, and Go
 - Exploring new technologies and blockchain development
@@ -83,12 +83,12 @@ One of the most effective ways to keep up with rapidly changing technology is to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limo39&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=limo39&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
   
@@ -101,9 +101,9 @@ One of the most effective ways to keep up with rapidly changing technology is to
 
 I'm always open to collaborating on interesting projects or discussing new opportunities!
 
-- 💼 Open to freelance opportunities
-- 🤝 Available for collaboration
-- 📚 Happy to mentor junior developers
+-  Open to freelance opportunities
+-  Available for collaboration
+-  Happy to mentor junior developers
 
 ---
 
